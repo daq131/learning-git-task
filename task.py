@@ -9,3 +9,7 @@ for key, item in my_dict.items():
 new = []
 new = my_dict['piekarnia'] + my_dict['warzywniak']
 print('W sumie kupuję', len(new), 'produktów')
+
+text = 'bla'
+print(3*'bla')
+print(1918-1795)
