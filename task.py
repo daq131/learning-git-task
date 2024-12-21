@@ -1,6 +1,7 @@
 my_dict = {
     'piekarnia' : ["chleb", "pączek", "bułki"],
-    'warzywniak': ["marchew", "seler", "rukola"]
+    'warzywniak': ["marchew", "seler", "rukola"],
+    'ogrodniczy' : ["haczka", "łopota", "nasiona"]
 }
 
 for key, item in my_dict.items():
@@ -13,3 +14,4 @@ print('W sumie kupuję', len(new), 'produktów')
 text = 'bla'
 print(3*'bla')
 print(1918-1795)
+
